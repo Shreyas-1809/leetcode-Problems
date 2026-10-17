@@ -10,22 +10,36 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-        ListNode temp = head;
-        ListNode temp2 = head;
-        Stack<ListNode> st = new Stack<>() ;
+        ListNode slow = head;
+        ListNode fast = head;
 
-        while(temp!=null)
+        while(fast.next !=null && fast.next.next!=null)
         {
-            st.push(temp);
-            temp = temp.next;
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        while(temp2!=null)
+
+        ListNode start = slow.next;
+        ListNode prev = null;
+        ListNode next = prev;
+
+        while(start!=null)
         {
-            if(temp2.val != st.peek().val)
+            next = start.next;
+            start.next =prev;
+
+            prev=start;
+            start = next;
+        }
+        ListNode temp = head;
+
+        while(temp!=null && prev!=null )
+        {
+            if(temp.val!=prev.val)
             return false;
 
-            temp2=temp2.next;
-            st.pop();
+            temp=temp.next;
+            prev=prev.next;
         }
         return true;
 }
