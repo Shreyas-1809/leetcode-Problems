@@ -8,6 +8,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+| [1472-design-browser-history](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/1472-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [1472-design-browser-history](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -32,4 +34,20 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/1472-design-browser-history) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
