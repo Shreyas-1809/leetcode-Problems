@@ -39,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1472-design-browser-history](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/1472-design-browser-history) |
 ## Design
 |  |
@@ -69,4 +70,20 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
