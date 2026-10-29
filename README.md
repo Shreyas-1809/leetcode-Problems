@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +57,16 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shreyas-1809/leetcode-Problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
